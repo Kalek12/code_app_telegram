@@ -1,12 +1,12 @@
 //kredensial
 
-const spreadsheetId   = '1r4ZXXMsiAzTWHQ351XuegUgxrYIMogWNvhGyK1TZ5Yg'
+const spreadsheetId   = '****'
 const sheetName       = 'data1' // Ini akan digunakan sebagai sheet data utama Anda
 const logSheetName    = 'Log'
 
-const botHandle       = '@datake_bot'
-const botToken        = '8109353358:AAGh_815wJcLtjfvjR4oOZwX0s8WV0c3qIA'
-const appsScriptUrl   = 'https://script.google.com/macros/s/AKfycbxVbe1HVvkyQe0uRX0z0Scvlwt9mNd95MR0ehuXggG14rdaWwPXIrMHq7MhGhClRUeJmA/exec'
+const botHandle       = '***'
+const botToken        = '****'
+const appsScriptUrl   = '***'
 const telegramApiUrl  = `https://api.telegram.org/bot${botToken}` // Menggunakan botToken yang sudah didefinisikan
 
 // ---
